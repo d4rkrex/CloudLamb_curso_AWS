@@ -1,1 +1,2 @@
-# CloudLamb_curso_AWS
+Practica Dynamo
+

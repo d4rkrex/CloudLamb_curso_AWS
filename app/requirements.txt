@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+json-logging==1.2.10
+datadog-logger==0.3.0
+boto3==1.16.6
