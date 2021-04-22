@@ -21,7 +21,7 @@ def get_dynamo(_id):
 
 
 def put_dynamo(_id, nombre):
-    response: {}
+    response = {}
     try:
         data = {'ID': str(_id), 'Nombre': nombre}
         db = boto3.resource('dynamodb', region_name='us-east-1')
